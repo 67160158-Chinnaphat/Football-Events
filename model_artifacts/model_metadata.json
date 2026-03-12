@@ -1,0 +1,21 @@
+{
+  "project_name": "Football Expected Goals (xG) Prediction",
+  "model_type": "GradientBoostingClassifier",
+  "accuracy": 0.9093,
+  "n_features": 7,
+  "feature_names": [
+    "time",
+    "side",
+    "bodypart",
+    "location",
+    "situation",
+    "assist_method",
+    "fast_break"
+  ],
+  "target_names": [
+    "ยิงไม่เข้า (0)",
+    "ยิงเข้า (1)"
+  ],
+  "training_samples": 182148,
+  "test_samples": 45537
+}

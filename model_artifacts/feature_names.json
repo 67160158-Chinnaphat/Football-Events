@@ -1,0 +1,9 @@
+[
+    "time",
+    "side",
+    "bodypart",
+    "location",
+    "situation",
+    "assist_method",
+    "fast_break"
+]
